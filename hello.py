@@ -1,7 +1,4 @@
-
-greetings(msg){
-    print(msg)
-}
+import helper
 
 if __name__ == "__main__":
-    grettings("hello")
+    helper.greetings("hello")
